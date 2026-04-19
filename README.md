@@ -130,12 +130,6 @@ Contributions are what make the open-source community such an amazing place to l
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## ✉️ Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
-
-Project Link: [https://github.com/yourusername/apex-lite](https://github.com/yourusername/apex-lite)
-
 ---
 <div align="center">
   <i>Built with ❤️ for modern project managers.</i>
