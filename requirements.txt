@@ -1,0 +1,6 @@
+streamlit
+ollama
+python-docx
+pandas
+python-dotenv
+plotly
