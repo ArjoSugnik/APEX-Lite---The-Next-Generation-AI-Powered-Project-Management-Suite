@@ -97,20 +97,6 @@ Navigate to `http://localhost:8501` in your web browser to access the dashboard.
 
 ---
 
-## 📸 Screenshots
-
-*(Replace the placeholders below with actual screenshots of your application)*
-
-| Dashboard Overview | Engine Selection |
-| :---: | :---: |
-| <img src="https://via.placeholder.com/600x350.png?text=Dashboard+Screenshot" alt="Dashboard" /> | <img src="https://via.placeholder.com/600x350.png?text=Engine+Selection" alt="Engines" /> |
-
-| Gantt Visualization | Exported Report |
-| :---: | :---: |
-| <img src="https://via.placeholder.com/600x350.png?text=Gantt+Chart+Screenshot" alt="Charts" /> | <img src="https://via.placeholder.com/600x350.png?text=Docx+Export+Screenshot" alt="Export" /> |
-
----
-
 ## 📦 Project Structure
 
 ```text
