@@ -12,7 +12,7 @@
 
 ---
 
-📖 **[Read Research Paper Here](https://zenodo.org/records/19649211)** 📖
+📖 **[Read Research Paper Here](https://zenodo.org/records/19649629)** 📖
 
 </div>
 
